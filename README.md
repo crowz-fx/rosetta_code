@@ -4,6 +4,7 @@ The following solutions are my own implementations and coding examples for the t
 In the brackets that follows a task name is the languages I have written a solution for i.e. [Java].
 
 ## Tasks
++ Arrays [ *JavaScript* ]
 + 100 Doors [ *Java, JavaScript* ]
 + HTTPS [ *Java* ] 
 
