@@ -7,5 +7,6 @@ In the brackets that follows a task name is the languages I have written a solut
 + Arrays [ *JavaScript* ]
 + 100 Doors [ *Java, JavaScript* ]
 + HTTPS [ *Java* ] 
++ Short Circuit Evaluation [ *Java* ]
 
 [1]: https://rosettacode.org/wiki/Category:Programming_Tasks
