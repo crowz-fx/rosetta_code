@@ -1,6 +1,8 @@
 /**
  * As you know it is the SQRT just do door index^2 10 times.
  * 
+ * Task - https://rosettacode.org/wiki/100_doors
+ * 
  * @author Lui Crowie
  */
 
